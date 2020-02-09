@@ -13,7 +13,7 @@
    * Bootstrap 4
    * BEM
    * Basic knowledge of Java Script
-5. ### Code examples,experience:
+5. ### Code examples, experience:
    * [Landing page](https://andrew-webdev.github.io/free-psd/)
    * [Unfinished project on React.js](https://github.com/Andrew-webdev/andrew-webdev.github.io/tree/master/my-app)
 6. ### Education: 
