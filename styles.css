@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: gray;
+    text-decoration: underline;
+}
+
+body {
+    background-color: #f7f7f7;
+    font-family: "Roboto", sans-serif;
+}
+
+
+/* __________________________________________HEADER______________________________________________ */
+
+
+.header {
+    margin-top: 50px;
+}
+
+.container {
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+.info {
+    display: flex;
+    justify-content: space-between;
+    background-color: #dfdddd;
+    border-radius: 30px;
+    max-height: 374.65px;
+}
+
+.info__about-name {
+    margin-left: 80px;
+    margin-top: 50px;
+}
+
+.info__about-contacts {
+    margin: 50px 50px;
+}
+
+.info__about-contacts h2 {
+    text-decoration: underline;
+}
+
+.info__about-contacts ul li {
+    padding: 5px;
+}
+
+.info__photo img {
+    width: 250px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+
+/* ________________________________________________CONTENT_____________________________________________ */
+
+
+.content {
+    margin: 30px 0 30px;
+}
+
+.content__box {
+    background-color: #dfdddd;
+    border-radius: 30px;
+}
+
+.content__items {
+    padding: 30px 50px;
+}
+
+.content__item-skillsList li {
+    list-style: square;
+    margin-left: 20px;
+}
+
+.content__item-experienceList li {
+    list-style: square;
+    margin-left: 20px;
+}
+
+.Title {
+    margin-top: 20px;
+}
+
+
+/* ________________________________________________________FOOTER___________________________________________________ */
+
+.footer {
+    background-color: #dfdddd;
+    border-radius: 30px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.github-logo {
+    width: 57px;
+    margin: 10px 25px;
+}
+
+.rsschool-logo {
+    width: 100px;
+    margin: 20px 25px;
+}
+
+.youtube-logo {
+    width: 50px;
+    margin: 20px 25px;
+}
