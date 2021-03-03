@@ -102,16 +102,23 @@ body {
 
 /* ________________________________________________________FOOTER___________________________________________________ */
 
-.footer__text {
+.footer {
     background-color: #dfdddd;
-    margin-bottom: 30px;
     border-radius: 30px;
+    text-align: center;
 }
 
-.footer__text p {
-    padding: 30px;
-    text-transform: uppercase;
-    text-align: center;
-    font-size: 26px;
-    font-weight: 700;
+.github-logo {
+    width: 57px;
+    margin: 10px 25px;
+}
+
+.rsschool-logo {
+    width: 100px;
+    margin: 20px 25px;
+}
+
+.youtube-logo {
+    width: 50px;
+    margin: 20px 25px;
 }
